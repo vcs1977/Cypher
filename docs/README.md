@@ -1,5 +1,4 @@
-
-Docs at https://tanishshinde.github.io/Cypher
+Documentation at https://www.tanishshinde.github.io/Cypher
 ## Minimal example
 
 ```python
