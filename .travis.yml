@@ -1,0 +1,32 @@
+# Author: Tanish Shinde
+# Email: simon.blanke@yahoo.com
+# License: MIT License
+os:
+  - linux
+
+language: python
+
+python:
+  - "3.5"
+  - "3.6"
+  - "3.7"
+
+install:
+  - pip install numpy
+  - pip install scikit-learn
+  - pip install xgboost
+  - pip install lightgbm
+  - pip install catboost
+  - pip install tensorflow
+  - pip install keras
+  - pip install meta-learn
+  - pip install pytest
+  - pip install pytest-cov
+  - pip install coveralls
+  - pip install .
+
+script:
+  - pytest --cov=cypher/
+
+after_success:
+  - coveralls

@@ -1,0 +1,12 @@
+*___.*
+*.pyc
+*.xml
+*.iml
+*.pkl
+*.npy
+*.pypirc
+**/__pycache__/
+**/build/
+**/dist/
+**/cypher.egg-info/
+**/_build/
