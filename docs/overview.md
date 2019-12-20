@@ -111,14 +111,6 @@
 
 ## Installation Options
 
-**Cypher (stable) is available on PyPi:**
-
-```bash
-pip install cypher
-```
-
-<br>
-
 **Cypher (master) from Github:**
 
 ```bash
