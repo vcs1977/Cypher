@@ -1,5 +1,5 @@
 <br>
-<a href="https://github.com/TanishShinde/Cypher"><img src="./_media/cypher.png" height="220"></a>
+<a href="https://github.com/TanishShinde/Cypher"><img src="./_media/cypher_logo.png" height="220"></a>
 <br>
 </p>
 
