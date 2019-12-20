@@ -1,15 +1,5 @@
-## Installation
 
-?> PyPi always has the newest version of cypher:
-
-[![pyversions](https://img.shields.io/pypi/pyversions/cypher.svg?style=for-the-badge&logo=python&color=blue&logoColor=white)](https://pypi.org/project/cypherbytanish)
-[![PyPI version](https://img.shields.io/pypi/v/cypher?style=for-the-badge&logo=pypi&color=green&logoColor=white)](https://pypi.org/project/cypherbytanish/)
-[![PyPI version](https://img.shields.io/pypi/dm/cypher?style=for-the-badge&color=red)](https://pypi.org/project/cypherbytanish/)
-
-```bash
-pip install cypherbytanish
-```
-
+Docs at https://tanishshinde.github.io/Cypher
 ## Minimal example
 
 ```python
