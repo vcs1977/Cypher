@@ -1,38 +1,4 @@
 
-## Roadmap
-
-<details>
-<summary><b>v2.0.0</b>:heavy_check_mark:</summary>
-
-  - [x] Change API
-  - [x] Ray integration
-</details>
-
-<details open>
-<summary><b>v2.1.0</b></summary>
-
-  - [x] Save memory of evaluations for later runs (long term memory)
-  - [x] Warm start sequence based optimizers with long term memory
-  - [x] Gaussian process regressors from various packages (gpy, sklearn, GPflow, ...) via wrapper
-</details>
-
-<details>
-<summary><b>v2.2.0</b></summary>
-
-  - [ ] Tree-structured Parzen Estimator
-  - [ ] Spiral optimization
-  - [ ] Downhill-Simplex-Method
-</details>
-
-<details>
-<summary><b>v2.3.0</b></summary>
-
-  - [ ] Helper-classes for model pruning
-  - [ ] Helper-classes for dataset approximation
-</details>
-
-<br>
-
 ## Experimental algorithms
 
 The following algorithms are of my own design and, to my knowledge, do not yet exist in the technical literature.
@@ -119,6 +85,39 @@ opt.search(
 
 <br>
 
+## Roadmap
+
+<details>
+<summary><b>v2.0.0</b>:heavy_check_mark:</summary>
+
+  - [x] Change API
+  - [x] Ray integration
+</details>
+
+<details open>
+<summary><b>v2.1.0</b></summary>
+
+  - [x] Save memory of evaluations for later runs (long term memory)
+  - [x] Warm start sequence based optimizers with long term memory
+  - [x] Gaussian process regressors from various packages (gpy, sklearn, GPflow, ...) via wrapper
+</details>
+
+<details>
+<summary><b>v2.2.0</b></summary>
+
+  - [ ] Tree-structured Parzen Estimator
+  - [ ] Spiral optimization
+  - [ ] Downhill-Simplex-Method
+</details>
+
+<details>
+<summary><b>v2.3.0</b></summary>
+
+  - [ ] Helper-classes for model pruning
+  - [ ] Helper-classes for dataset approximation
+</details>
+
+<br>
 ## References
 
 #### [1] [Proxy Datasets for Training Convolutional Neural Networks](https://arxiv.org/pdf/1906.04887v1.pdf)
