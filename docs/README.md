@@ -34,7 +34,7 @@ Inspired by hyperband optimization.
 from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.datasets import load_breast_cancer
-from hyperactive import Hyperactive
+from cypher import Cypher
 
 data = load_breast_cancer()
 X, y = data.data, data.target
